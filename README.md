@@ -1,4 +1,4 @@
-# 💫 ABOUT ME :
+# 💫<center> ANISH RATHOD </center>
 
 👍 _Hello Guys, My Name is Anish Rathod I'm a MERN Stack Developer. I Create Modern & Responsive Websites and Designs. I Provided Sourse code of Project to help you Growth your skills and develope Projects I create website using famous framework like ReacJS, NodeJS, Tailwindcss, Bootstrap, Laravel etc. and it's fully working, responsive, modern UI. and I Make all type of websites like ecommerce, portfolio, online website etc._
 
@@ -7,11 +7,13 @@
 🎓 Bachelor in Computer Application (BCA)  
 ☎️ +91 6353191430  
 📧 anishdeveloper100@gmal.com  
+📧 anishr6353@gmal.com  
 🏠 Anand, Gujarat
 
 #### 🔥 Follow Links
 
 Linkedin ↗️ https://www.linkedin.com/in/anishrathod123
+Github   ↗️ https://github.com/anish-dev-coder
 
 # 💻 TECH STACK
 
