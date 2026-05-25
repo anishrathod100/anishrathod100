@@ -12,7 +12,7 @@
 
 #### 🔥 Follow Links
 
-Linkedin ↗️ https://www.linkedin.com/in/anishrathod123
+Linkedin ↗️ https://www.linkedin.com/in/anishrathod123  
 Github   ↗️ https://github.com/anish-dev-coder
 
 # 💻 TECH STACK
